@@ -1,0 +1,15 @@
+{
+    "name": "fluxfc/plugin-darksite",
+    "description": "A plugin to activate dark mode for your airline website",
+    "keywords": ["wordpress", "plugin"],
+    "homepage": "https://github.com/fluxfc/plugin-darksite",
+    "authors": [
+      {
+        "name": "Flux"
+      }
+    ],
+    "type": "wordpress-plugin",
+    "require": {
+      "php": ">=7.1"
+    }
+  }
